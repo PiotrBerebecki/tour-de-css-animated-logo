@@ -1,8 +1,8 @@
-# Vanilla JavaScript App Boilerplate
+# Tour de CSS - Animated SVG logo
 
-App demonstrating ...
+CSS keyframes are used to animate parts of the SVG logo.
 
-Live version: https://REPO.herokuapp.com
+Live version: https://tour-de-css-animated-logo.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -11,15 +11,15 @@ Live version: https://REPO.herokuapp.com
 * Express
 * Heroku
 * Browsersync
+* CSS3 Animations
 * Vanilla JavaScript
 * ES6
-* Flexbox
 
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/tour-de-css-animated-logo.git
+cd tour-de-css-animated-logo
 npm install
 
 #1. Start the development server with Browsersync reloading
